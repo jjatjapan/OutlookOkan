@@ -282,16 +282,16 @@
     <value>警告关键字包括在电子邮件的正文中。</value>
   </data>
   <data name="DeferredDelivery" xml:space="preserve">
-    <value>推迟交付</value>
+    <value>推迟发送</value>
   </data>
   <data name="DeferredDeliveryEmailAddressOrDomainInfo" xml:space="preserve">
-    <value>输入你想延迟交付的电子邮件地址或域名。</value>
+    <value>输入你想延迟发送的电子邮件地址或域名。</value>
   </data>
   <data name="DeferredDeliveryMinutes" xml:space="preserve">
-    <value>延迟交货时间（分钟）</value>
+    <value>延迟发送时间（分钟）</value>
   </data>
   <data name="DeferredDeliveryTime" xml:space="preserve">
-    <value>延迟交货时间（分钟）</value>
+    <value>延迟发送时间（分钟）</value>
   </data>
   <data name="DestinationEmailaddress" xml:space="preserve">
     <value>收件人</value>
